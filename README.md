@@ -1,1 +1,3 @@
-# Analyzing Lyrics to what you listen to on Spotify
+#What would I sing in the shower?
+
+## Analyzing Lyrics to what I listen to on Spotify
